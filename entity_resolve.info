@@ -1,0 +1,6 @@
+name = Entity Resolve
+description = Resolve entities based on path (or other criteria)
+core = 7.x
+version = 7.x-1.0-beta1
+package = Top Floor Tech
+dependencies[] = menu
